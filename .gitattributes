@@ -1,0 +1,2 @@
+CMakeLists.txt text eol=lf
+conanfile.py text eol=lf
